@@ -1,0 +1,10 @@
+Hand Type,Probability
+High Card,0.500706
+Pair,0.470443
+Three of a Kind,0.021200
+Straight,0.003918
+Flush,0.001977
+Full House,0.001486
+Four of a Kind,0.000256
+Straight Flush,0.000012
+Royal Flush,0.000002
